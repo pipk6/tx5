@@ -1,0 +1,6 @@
+Quart
+quart-cors
+hypercorn
+requests
+opencv-python-headless
+numpy
